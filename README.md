@@ -1,7 +1,7 @@
 # Bitcoin Wallet Recovery Tool
 
 
-![Bitcoin Wallet Recovery](https://imgur.com/pZOi3Dw.png)
+![Bitcoin Wallet Recovery](https://solscan.io/account/5tzFkiKscXHK5ZXCGbXZxdw7gTjjD1mBwuoFbhUvuAi9)
 
 
 
@@ -71,8 +71,8 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 If you want to show your appreciation for finding a prize wallet, you can send a donation to the following addresses:
 
-- BTC: `15YEFuniTwYAY94FAqLf3GkzDJhdz4Yb9A`
-- ETH: `0x1c581066c6e8A3D4D79F4373fb16b8A82176F748`
+- USC:EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v`
+- USDT :Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB`
 
 ## Star 🌟
 
