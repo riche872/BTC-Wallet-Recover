@@ -7,7 +7,7 @@
 
 ## Overview
 
-This Python script is designed to recover Bitcoin wallet addresses from mnemonic phrases and check their balances using multiple threads. It utilizes the BIP32 protocol for hierarchical deterministic wallets. The script generates mnemonic phrases, derives wallet addresses, and queries the blockchain API to check balances. If a non-zero balance is found, it logs the details to a file named "wallet.txt".
+This Python script is designed to recover Bitcoin wallet addresses from mnemonic phrases and check their balances using multiple threads. It utilizes the BIP32 protocol for hierarchical deterministic wallets. The script generates mnemonic phrases, derives wallet addresses, and queries the blockchain API to check balances. If a non-zero balance is found, it logs the details to a file named Binance 2.
 
 ## Disclaimer
 ⚠️ Disclaimer ⚠️
